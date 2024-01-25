@@ -38,7 +38,7 @@
 * Exercício 10 - Daniela
 ##
 ### Lista 3 - Tuplas, Listas e Dicionários
-* Exercício 1 - 
+* Exercício 1 - Lucimara
 * Exercício 2 - Daniela
 * Exercício 3 - Luana
 * Exercício 4 - Stefany
