@@ -28,7 +28,7 @@
 ### Lista 2 - Tomada de Decisão e repetição
 * Exercício 1 - Tainá
 * Exercício 2 - Tainá
-* Exercício 3 -
+* Exercício 3 - Juliana
 * Exercício 4 - Lucimara
 * Exercício 5 - Daniela
 * Exercício 6 -
@@ -48,7 +48,7 @@
 ### Lista 4 - Funções
 * Exercício 1 - Ana Torchia
 * Exercício 2 - Stefany
-* Exercício 3 - 
+* Exercício 3 - Juliana
 * Exercício 4 - Luana
 * Exercício 5 - 
 * Exercício 6 - Daniela
