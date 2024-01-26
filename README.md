@@ -31,10 +31,10 @@
 * Exercício 3 - Juliana
 * Exercício 4 - Lucimara
 * Exercício 5 - Daniela
-* Exercício 6 -
+* Exercício 6 - Mariana
 * Exercício 7 - Stefany
 * Exercício 8 - Luana
-* Exercício 9 - 
+* Exercício 9 - Mariana
 * Exercício 10 - Daniela
 ##
 ### Lista 3 - Tuplas, Listas e Dicionários
@@ -50,7 +50,7 @@
 * Exercício 2 - Stefany
 * Exercício 3 - Juliana
 * Exercício 4 - Luana
-* Exercício 5 - 
+* Exercício 5 - Mariana
 * Exercício 6 - Daniela
 ##
 ### Organização
