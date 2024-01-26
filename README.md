@@ -52,3 +52,7 @@
 * Exercício 4 - Luana
 * Exercício 5 - 
 * Exercício 6 - Daniela
+##
+### Organização
+Utilizamos o campo Issue do repositório para organizar os exercícios.
+Abrimos uma Issue para cada exercício que precisa ser feito, assim cada membro do time escolhe o exercício que irá fazer e adiciona o seu nome/avatar no campo 'Assigness'.
