@@ -1,14 +1,14 @@
 ### Squad Mary Jackson:
 
 * Ana Carolina Torchia De Souza
-* Camila Aragão
+* Camila Aragão (Não conseguimos contato)
 * Daniela do Nascimento Dalla Vecchia
 * Juliana Silva Gonçalves
-* Lorrayne Santana
+* Lorrayne Santana (Conseguimos apenas um contato)
 * Luana Cardoso
 * Lucimara Costa Bustamante
 * Mariana de Castro Mehler Elias
-* Nayla Hilana da Silva
+* Nayla Hilana da Silva (Ela não teve oportunidade de contribuir neste projeto, pois se juntou à equipe nesta semana)
 * Stefany Gracy Barros da Silva
 * Tainá Maria Travassos Mota Martins
 
