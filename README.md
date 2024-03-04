@@ -11,14 +11,14 @@ Esses exercícios fazem parte do Bootcamp Backend Python e Django oferecido pela
 ### Squad Mary Jackson:
 
 * Ana Carolina Torchia De Souza
-* Camila Aragão
+* Camila Aragão (Não conseguimos contato)
 * Daniela do Nascimento Dalla Vecchia
 * Juliana Silva Gonçalves
-* Lorrayne Santana
+* Lorrayne Santana (Conseguimos apenas um contato)
 * Luana Cardoso
 * Lucimara Costa Bustamante
 * Mariana de Castro Mehler Elias
-* Nayla Hilana da Silva
+* Nayla Hilana da Silva (Ela não teve oportunidade de contribuir neste projeto, pois se juntou à equipe nesta semana)
 * Stefany Gracy Barros da Silva
 * Tainá Maria Travassos Mota Martins
 
@@ -62,3 +62,7 @@ Esses exercícios fazem parte do Bootcamp Backend Python e Django oferecido pela
 * Exercício 4 - Luana
 * Exercício 5 - Mariana
 * Exercício 6 - Daniela
+##
+### Organização
+Utilizamos o campo Issue do repositório para organizar os exercícios.
+Abrimos uma Issue para cada exercício que precisa ser feito, assim cada membro do time escolhe o exercício que irá fazer e adiciona o seu nome/avatar no campo 'Assigness'.
