@@ -1,3 +1,13 @@
+# Lista de exercícios para a prática de conceitos básicos da linguagem ``Python``
+
+Esses exercícios fazem parte do Bootcamp Backend Python e Django oferecido pela comunidade de cursos de Tecnologia para mulheres [Womakers Code](https://womakerscode.org/) em parceria com Potência Tech Ifood e Microsoft. 
+
+<div align="center">
+
+<img src="https://womakerscode.org/wp-content/uploads/2023/05/womakerscode.png" width="300" height="100">
+
+</div>
+
 ### Squad Mary Jackson:
 
 * Ana Carolina Torchia De Souza
@@ -31,10 +41,10 @@
 * Exercício 3 - Juliana
 * Exercício 4 - Lucimara
 * Exercício 5 - Daniela
-* Exercício 6 -
+* Exercício 6 - Mariana
 * Exercício 7 - Stefany
 * Exercício 8 - Luana
-* Exercício 9 - 
+* Exercício 9 - Mariana
 * Exercício 10 - Daniela
 ##
 ### Lista 3 - Tuplas, Listas e Dicionários
@@ -50,5 +60,5 @@
 * Exercício 2 - Stefany
 * Exercício 3 - Juliana
 * Exercício 4 - Luana
-* Exercício 5 - 
+* Exercício 5 - Mariana
 * Exercício 6 - Daniela
